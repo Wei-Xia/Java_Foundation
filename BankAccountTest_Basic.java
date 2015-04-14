@@ -1,4 +1,4 @@
-public class BankAccountTest{
+public class BankAccountTest_Basic{
 	public static void main(String args[]) {
 	
 		BankAccount A= new BankAccount(3000);

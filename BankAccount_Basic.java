@@ -1,4 +1,4 @@
-public class BankAccount {
+public class BankAccount_Basic {
 
 	double balance;
 	
