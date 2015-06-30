@@ -1,6 +1,6 @@
 class PartOne {
 
-		int highest (int [] grades) {
+		int highest  (int [] grades) {
 		
 		int highest;
 		highest = grades[0];
